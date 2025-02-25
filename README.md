@@ -1,6 +1,6 @@
 # Spam-Email-Detector
 
-This is the final project for NYU CS9053, which includes the following technical highlights：
+This is the final project for NYU CS9053 and is also used for reviewing Java programming, which includes the following technical highlights：
 1. Model training: \
    Naive Bayes classification algorithm \
    Dataset Handling 
